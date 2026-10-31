@@ -1,5 +1,5 @@
 {
-  "updated_at": "01 Nov 2026, 03:40 IST",
+  "updated_at": "01 Nov 2026, 04:40 IST",
   "channels": [
     {
       "platform": "instagram",
@@ -17,7 +17,7 @@
       "latest_type": "video",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": -1,
+      "follower_delta": null,
       "email": "Meta account — email not exposed by Meta API"
     },
     {
@@ -166,14 +166,14 @@
       "url": "https://www.youtube.com/channel/UCnQJQkNKfUv8GnE-Llkv-Jg",
       "followers": null,
       "posts": null,
-      "posts_7d": 1,
-      "latest": "01 Nov 2026",
-      "latest_dt": "2026-11-01T02:27:05+05:30",
-      "latest_url": "https://www.youtube.com/shorts/QLjxUBemk8A",
+      "posts_7d": 0,
+      "latest": null,
+      "latest_dt": null,
+      "latest_url": null,
       "latest_type": null,
-      "latest_title": "MONDAY?! Abhi to Sunday tha... | Meme Adda #Shorts",
-      "health": "ok",
-      "health_label": "Active",
+      "latest_title": null,
+      "health": "unknown",
+      "health_label": "Unknown",
       "follower_delta": null,
       "email": "niteshlhsnda@gmail.com"
     },
