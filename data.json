@@ -1,5 +1,5 @@
 {
-  "updated_at": "01 Nov 2026, 00:59 IST",
+  "updated_at": "01 Nov 2026, 01:10 IST",
   "channels": [
     {
       "platform": "instagram",
@@ -8,7 +8,7 @@
       "name": "Patna Pulse",
       "handle": "@patna_pulse.post",
       "url": "https://www.instagram.com/patna_pulse.post/",
-      "followers": 271,
+      "followers": 272,
       "posts": 263,
       "posts_7d": 28,
       "latest": "01 Nov 2026, 00:20 IST",
@@ -17,7 +17,8 @@
       "latest_type": "video",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": 1
+      "follower_delta": 1,
+      "email": "Meta account — email not exposed by Meta API"
     },
     {
       "platform": "instagram",
@@ -35,7 +36,8 @@
       "latest_type": "image",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": null
+      "follower_delta": null,
+      "email": "Meta account — email not exposed by Meta API"
     },
     {
       "platform": "instagram",
@@ -53,7 +55,8 @@
       "latest_type": "video",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": null
+      "follower_delta": null,
+      "email": "Meta account — email not exposed by Meta API"
     },
     {
       "platform": "facebook",
@@ -71,7 +74,8 @@
       "latest_type": null,
       "health": "unknown",
       "health_label": "Unknown",
-      "follower_delta": null
+      "follower_delta": null,
+      "email": "Meta account — email not exposed by Meta API"
     },
     {
       "platform": "facebook",
@@ -89,7 +93,8 @@
       "latest_type": null,
       "health": "unknown",
       "health_label": "Unknown",
-      "follower_delta": null
+      "follower_delta": null,
+      "email": "Meta account — email not exposed by Meta API"
     },
     {
       "platform": "facebook",
@@ -107,7 +112,8 @@
       "latest_type": null,
       "health": "unknown",
       "health_label": "Unknown",
-      "follower_delta": null
+      "follower_delta": null,
+      "email": "Meta account — email not exposed by Meta API"
     },
     {
       "platform": "youtube",
@@ -126,7 +132,8 @@
       "latest_title": "ISRO का NVS-03 लॉन्च सफल — बिहार CM ने क्या कहा? | Patna Pulse #Shorts",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": null
+      "follower_delta": null,
+      "email": "niteshlhsnda@gmail.com"
     },
     {
       "platform": "youtube",
@@ -145,7 +152,8 @@
       "latest_title": "Nasruddin and the Moon in the Well | Bedtime Story for Kids",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": null
+      "follower_delta": null,
+      "email": "niteshlhsnda@gmail.com ✓"
     },
     {
       "platform": "youtube",
@@ -164,7 +172,8 @@
       "latest_title": null,
       "health": "unknown",
       "health_label": "Unknown",
-      "follower_delta": null
+      "follower_delta": null,
+      "email": "niteshlhsnda@gmail.com"
     },
     {
       "platform": "youtube",
@@ -183,7 +192,8 @@
       "latest_title": "गैया मेरी | Gaiya Meri Doodh Deti Hai | Hindi Rhymes for Children 🐄",
       "health": "quiet",
       "health_label": "Quiet",
-      "follower_delta": null
+      "follower_delta": null,
+      "email": "niteshlhsnda@gmail.com ✓"
     },
     {
       "platform": "youtube",
@@ -202,7 +212,8 @@
       "latest_title": "Top 5 Current Affairs Hinglish | Ep 64 | 30 October 2026 | #shorts",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": null
+      "follower_delta": null,
+      "email": "MaticCretic Google account — email not on file"
     },
     {
       "platform": "facebook",
@@ -222,7 +233,8 @@
       "health": "ok",
       "health_label": "Live",
       "note": "Page created and published 30 Sep 2026. Page URL not on file.",
-      "follower_delta": null
+      "follower_delta": null,
+      "email": "Not on file"
     },
     {
       "platform": "instagram",
@@ -242,7 +254,8 @@
       "health": "stale",
       "health_label": "Permanently disabled",
       "note": "Disabled 30 Sep 2026, no appeal. Do NOT try to recover it or link a new account to it.",
-      "follower_delta": null
+      "follower_delta": null,
+      "email": "Not on file"
     },
     {
       "platform": "instagram",
@@ -262,7 +275,8 @@
       "health": "quiet",
       "health_label": "Gated — selfie check",
       "note": "Created 22 Oct 2026, 0 posts. Phone code passed 26 Oct; verification selfie not uploaded.",
-      "follower_delta": null
+      "follower_delta": null,
+      "email": "Not on file"
     },
     {
       "platform": "youtube",
@@ -282,7 +296,8 @@
       "health": "unknown",
       "health_label": "Setup pending",
       "note": "Channel creation needs a one-time Studio verification from the founder.",
-      "follower_delta": null
+      "follower_delta": null,
+      "email": "Not on file"
     },
     {
       "platform": "facebook",
@@ -302,7 +317,8 @@
       "health": "stale",
       "health_label": "Creation refused",
       "note": "Page creation was refused because of an account restriction. Do not retry without a fresh decision.",
-      "follower_delta": null
+      "follower_delta": null,
+      "email": "Not on file"
     },
     {
       "platform": "youtube",
@@ -322,7 +338,8 @@
       "health": "unknown",
       "health_label": "Unverified",
       "note": "Setup started and paused for a Google sign-in. Do not treat as live.",
-      "follower_delta": null
+      "follower_delta": null,
+      "email": "Not on file"
     }
   ]
 }
