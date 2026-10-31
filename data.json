@@ -1,5 +1,5 @@
 {
-  "updated_at": "01 Nov 2026, 01:40 IST",
+  "updated_at": "01 Nov 2026, 01:44 IST",
   "channels": [
     {
       "platform": "instagram",
@@ -8,7 +8,7 @@
       "name": "Patna Pulse",
       "handle": "@patna_pulse.post",
       "url": "https://www.instagram.com/patna_pulse.post/",
-      "followers": 273,
+      "followers": 274,
       "posts": 263,
       "posts_7d": 28,
       "latest": "01 Nov 2026, 00:20 IST",
@@ -72,10 +72,11 @@
       "latest_dt": null,
       "latest_url": null,
       "latest_type": null,
-      "health": "unknown",
-      "health_label": "Unknown",
+      "health": "parked",
+      "health_label": "Parked",
       "follower_delta": null,
-      "email": "Meta account — email not exposed by Meta API"
+      "email": "Meta account — email not exposed by Meta API",
+      "note": "Parked per channel strategy — revival comes after Nani Ki Kahaniyan."
     },
     {
       "platform": "facebook",
@@ -110,10 +111,11 @@
       "latest_dt": null,
       "latest_url": null,
       "latest_type": null,
-      "health": "unknown",
-      "health_label": "Unknown",
+      "health": "parked",
+      "health_label": "Parked",
       "follower_delta": null,
-      "email": "Meta account — email not exposed by Meta API"
+      "email": "Meta account — email not exposed by Meta API",
+      "note": "Parked per channel strategy — revival comes after Nani Ki Kahaniyan."
     },
     {
       "platform": "youtube",
@@ -233,27 +235,6 @@
       "health": "ok",
       "health_label": "Live",
       "note": "Page created and published 30 Sep 2026. Page URL not on file.",
-      "follower_delta": null,
-      "email": "Not on file"
-    },
-    {
-      "platform": "instagram",
-      "account": "MaticCretic",
-      "source": "snapshot",
-      "name": "Daily Current Affairs",
-      "handle": "@dailycurrentaffairs523",
-      "url": "https://www.instagram.com/dailycurrentaffairs523/",
-      "followers": null,
-      "posts": null,
-      "posts_7d": null,
-      "latest": null,
-      "latest_dt": null,
-      "latest_url": null,
-      "latest_type": null,
-      "latest_title": null,
-      "health": "stale",
-      "health_label": "Permanently disabled",
-      "note": "Disabled 30 Sep 2026, no appeal. Do NOT try to recover it or link a new account to it.",
       "follower_delta": null,
       "email": "Not on file"
     },
