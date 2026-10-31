@@ -1,5 +1,5 @@
 {
-  "updated_at": "01 Nov 2026, 01:44 IST",
+  "updated_at": "01 Nov 2026, 01:47 IST",
   "channels": [
     {
       "platform": "instagram",
@@ -17,7 +17,7 @@
       "latest_type": "video",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": 1,
+      "follower_delta": null,
       "email": "Meta account — email not exposed by Meta API"
     },
     {
