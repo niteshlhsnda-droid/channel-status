@@ -1,5 +1,5 @@
 {
-  "updated_at": "01 Nov 2026, 22:40 IST",
+  "updated_at": "01 Nov 2026, 22:50 IST",
   "channels": [
     {
       "platform": "instagram",
@@ -17,7 +17,7 @@
       "latest_type": "video",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": 3,
+      "follower_delta": null,
       "email": "Meta account — email not exposed by Meta API"
     },
     {
@@ -59,10 +59,29 @@
       "email": "Meta account — email not exposed by Meta API"
     },
     {
+      "platform": "instagram",
+      "account": "niteshlhsnda-droid",
+      "source": "live",
+      "name": "Meme Adda",
+      "handle": "@memeaddaindia.post",
+      "url": "https://www.instagram.com/memeaddaindia.post/",
+      "followers": 0,
+      "posts": 4,
+      "posts_7d": 3,
+      "latest": "01 Nov 2026, 22:11 IST",
+      "latest_dt": "2026-11-01T22:11:50+05:30",
+      "latest_url": "https://www.instagram.com/reel/DfNL2TQDzYK/",
+      "latest_type": "video",
+      "health": "ok",
+      "health_label": "Active",
+      "follower_delta": null,
+      "email": "Meta account — email not exposed by Meta API"
+    },
+    {
       "platform": "facebook",
       "account": "niteshlhsnda-droid",
       "source": "live",
-      "name": "Sleepy Storyteller",
+      "name": "Meme Adda",
       "handle": "Facebook Page",
       "url": "https://www.facebook.com/profile.php?id=1294899363715328",
       "followers": "0",
@@ -72,11 +91,10 @@
       "latest_dt": null,
       "latest_url": null,
       "latest_type": null,
-      "health": "parked",
-      "health_label": "Parked",
+      "health": "unknown",
+      "health_label": "Unknown",
       "follower_delta": null,
-      "email": "Meta account — email not exposed by Meta API",
-      "note": "Parked per channel strategy — revival comes after Nani Ki Kahaniyan."
+      "email": "Meta account — email not exposed by Meta API"
     },
     {
       "platform": "facebook",
