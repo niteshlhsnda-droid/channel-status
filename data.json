@@ -1,5 +1,5 @@
 {
-  "updated_at": "01 Nov 2026, 17:40 IST",
+  "updated_at": "01 Nov 2026, 18:40 IST",
   "channels": [
     {
       "platform": "instagram",
@@ -17,7 +17,7 @@
       "latest_type": "video",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": 1,
+      "follower_delta": null,
       "email": "Meta account — email not exposed by Meta API"
     },
     {
@@ -206,7 +206,7 @@
       "url": "https://www.youtube.com/channel/UCsOqDVFHEFv1f9rb4zF9nnA",
       "followers": null,
       "posts": null,
-      "posts_7d": 15,
+      "posts_7d": 14,
       "latest": "01 Nov 2026",
       "latest_dt": "2026-11-01T15:14:13+05:30",
       "latest_url": "https://www.youtube.com/shorts/M8-UujvLGkE",
