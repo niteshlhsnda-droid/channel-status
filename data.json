@@ -1,5 +1,5 @@
 {
-  "updated_at": "03 Nov 2026, 02:40 IST",
+  "updated_at": "03 Nov 2026, 03:40 IST",
   "channels": [
     {
       "platform": "instagram",
@@ -8,7 +8,7 @@
       "name": "Patna Pulse",
       "handle": "@patna_pulse.post",
       "url": "https://www.instagram.com/patna_pulse.post/",
-      "followers": 310,
+      "followers": 311,
       "posts": 283,
       "posts_7d": 28,
       "latest": "03 Nov 2026, 02:13 IST",
@@ -17,7 +17,7 @@
       "latest_type": "video",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": null,
+      "follower_delta": 1,
       "email": "Meta account — email not exposed by Meta API"
     },
     {
@@ -225,11 +225,11 @@
       "followers": null,
       "posts": null,
       "posts_7d": 15,
-      "latest": "02 Nov 2026",
-      "latest_dt": "2026-11-02T21:14:14+05:30",
-      "latest_url": "https://www.youtube.com/shorts/AJxnnAE0u4M",
+      "latest": "03 Nov 2026",
+      "latest_dt": "2026-11-03T03:06:43+05:30",
+      "latest_url": "https://www.youtube.com/shorts/bgAzGjc4rds",
       "latest_type": null,
-      "latest_title": "Top 5 Current Affairs Hinglish | Ep 72 | 2 November 2026 | #shorts",
+      "latest_title": "Top 5 Current Affairs Hinglish | Ep 73 | 3 November 2026 | #shorts",
       "health": "ok",
       "health_label": "Active",
       "follower_delta": null,
