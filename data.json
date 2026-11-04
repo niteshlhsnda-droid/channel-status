@@ -1,5 +1,5 @@
 {
-  "updated_at": "04 Nov 2026, 07:41 IST",
+  "updated_at": "04 Nov 2026, 08:40 IST",
   "channels": [
     {
       "platform": "instagram",
@@ -17,7 +17,7 @@
       "latest_type": "video",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": -1,
+      "follower_delta": null,
       "email": "Meta account — email not exposed by Meta API"
     },
     {
@@ -47,11 +47,11 @@
       "handle": "@sia.aesthetic_baddie",
       "url": "https://www.instagram.com/sia.aesthetic_baddie/",
       "followers": 15,
-      "posts": 88,
+      "posts": 89,
       "posts_7d": 16,
-      "latest": "03 Nov 2026, 20:43 IST",
-      "latest_dt": "2026-11-03T20:43:10+05:30",
-      "latest_url": "https://www.instagram.com/stories/sia.aesthetic_baddie/4022327081790806091",
+      "latest": "04 Nov 2026, 07:43 IST",
+      "latest_dt": "2026-11-04T07:43:49+05:30",
+      "latest_url": "https://www.instagram.com/reel/DfTW5sTD7BC/",
       "latest_type": "video",
       "health": "ok",
       "health_label": "Active",
