@@ -1,5 +1,5 @@
 {
-  "updated_at": "09 Nov 2026, 09:41 IST",
+  "updated_at": "09 Nov 2026, 10:40 IST",
   "channels": [
     {
       "platform": "instagram",
@@ -164,14 +164,14 @@
       "url": "https://www.youtube.com/channel/UCXII5ks3ZuF9uawh8nBlozw",
       "followers": null,
       "posts": null,
-      "posts_7d": 12,
-      "latest": "08 Nov 2026",
-      "latest_dt": "2026-11-08T21:07:32+05:30",
-      "latest_url": "https://www.youtube.com/watch?v=kpZEwDlssKY",
+      "posts_7d": 0,
+      "latest": null,
+      "latest_dt": null,
+      "latest_url": null,
       "latest_type": null,
-      "latest_title": "Teremok: The Little House in the Woods | Bedtime Story for Kids",
-      "health": "ok",
-      "health_label": "Active",
+      "latest_title": null,
+      "health": "unknown",
+      "health_label": "Unknown",
       "follower_delta": null,
       "email": "niteshlhsnda@gmail.com ✓"
     },
