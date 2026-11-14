@@ -1,5 +1,5 @@
 {
-  "updated_at": "14 Nov 2026, 10:40 IST",
+  "updated_at": "14 Nov 2026, 11:40 IST",
   "channels": [
     {
       "platform": "instagram",
@@ -8,7 +8,7 @@
       "name": "Patna Pulse",
       "handle": "@patna_pulse.post",
       "url": "https://www.instagram.com/patna_pulse.post/",
-      "followers": 431,
+      "followers": 432,
       "posts": 378,
       "posts_7d": 21,
       "latest": "14 Nov 2026, 10:16 IST",
@@ -17,7 +17,7 @@
       "latest_type": "video",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": null,
+      "follower_delta": 1,
       "email": "Meta account — email not exposed by Meta API"
     },
     {
