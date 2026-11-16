@@ -1,5 +1,5 @@
 {
-  "updated_at": "16 Nov 2026, 08:40 IST",
+  "updated_at": "16 Nov 2026, 09:40 IST",
   "channels": [
     {
       "platform": "instagram",
@@ -17,7 +17,7 @@
       "latest_type": "video",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": 1,
+      "follower_delta": null,
       "email": "Meta account — email not exposed by Meta API"
     },
     {
@@ -28,11 +28,11 @@
       "handle": "@kids.stories.tales",
       "url": "https://www.instagram.com/kids.stories.tales/",
       "followers": 0,
-      "posts": 118,
+      "posts": 120,
       "posts_7d": 14,
-      "latest": "15 Nov 2026, 21:03 IST",
-      "latest_dt": "2026-11-15T21:03:16+05:30",
-      "latest_url": "https://www.instagram.com/p/DfxHI7Sj1cY/",
+      "latest": "16 Nov 2026, 09:29 IST",
+      "latest_dt": "2026-11-16T09:29:32+05:30",
+      "latest_url": "https://www.instagram.com/p/DfycjWDidfk/",
       "latest_type": "image",
       "health": "ok",
       "health_label": "Active",
