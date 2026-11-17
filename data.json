@@ -1,5 +1,5 @@
 {
-  "updated_at": "18 Nov 2026, 02:40 IST",
+  "updated_at": "18 Nov 2026, 03:40 IST",
   "channels": [
     {
       "platform": "instagram",
@@ -17,7 +17,7 @@
       "latest_type": "video",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": 1,
+      "follower_delta": null,
       "email": "Meta account — email not exposed by Meta API"
     },
     {
@@ -225,11 +225,11 @@
       "followers": null,
       "posts": null,
       "posts_7d": 15,
-      "latest": "17 Nov 2026",
-      "latest_dt": "2026-11-17T21:12:38+05:30",
-      "latest_url": "https://www.youtube.com/shorts/NUMJuTkjqJk",
+      "latest": "18 Nov 2026",
+      "latest_dt": "2026-11-18T03:03:06+05:30",
+      "latest_url": "https://www.youtube.com/shorts/7Z3kRzTeXLA",
       "latest_type": null,
-      "latest_title": "Top 5 Current Affairs Hinglish | Ep 132 | 17 November 2026 | #shorts",
+      "latest_title": "Top 5 Current Affairs Hinglish | Ep 133 | 18 November 2026 | #shorts",
       "health": "ok",
       "health_label": "Active",
       "follower_delta": null,
