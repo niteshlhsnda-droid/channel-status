@@ -1,5 +1,5 @@
 {
-  "updated_at": "18 Nov 2026, 21:40 IST",
+  "updated_at": "18 Nov 2026, 22:40 IST",
   "channels": [
     {
       "platform": "instagram",
@@ -17,7 +17,7 @@
       "latest_type": "video",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": 2,
+      "follower_delta": null,
       "email": "Meta account — email not exposed by Meta API"
     },
     {
@@ -66,14 +66,14 @@
       "handle": "@memeaddaindia.post",
       "url": "https://www.instagram.com/memeaddaindia.post/",
       "followers": 1,
-      "posts": 16,
-      "posts_7d": 0,
-      "latest": "06 Nov 2026, 11:58 IST",
-      "latest_dt": "2026-11-06T11:58:26+05:30",
-      "latest_url": "https://www.instagram.com/reel/DfY9n_fj55L/",
+      "posts": 17,
+      "posts_7d": 1,
+      "latest": "18 Nov 2026, 22:31 IST",
+      "latest_dt": "2026-11-18T22:31:50+05:30",
+      "latest_url": "https://www.instagram.com/reel/Df4_qHnj-v3/",
       "latest_type": "video",
-      "health": "stale",
-      "health_label": "Stale",
+      "health": "ok",
+      "health_label": "Active",
       "follower_delta": null,
       "email": "Meta account — email not exposed by Meta API"
     },
