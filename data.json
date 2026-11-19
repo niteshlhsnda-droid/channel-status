@@ -1,5 +1,5 @@
 {
-  "updated_at": "19 Nov 2026, 15:40 IST",
+  "updated_at": "19 Nov 2026, 16:40 IST",
   "channels": [
     {
       "platform": "instagram",
@@ -8,7 +8,7 @@
       "name": "Patna Pulse",
       "handle": "@patna_pulse.post",
       "url": "https://www.instagram.com/patna_pulse.post/",
-      "followers": 439,
+      "followers": 438,
       "posts": 423,
       "posts_7d": 21,
       "latest": "19 Nov 2026, 13:16 IST",
@@ -17,7 +17,7 @@
       "latest_type": "video",
       "health": "ok",
       "health_label": "Active",
-      "follower_delta": null,
+      "follower_delta": -1,
       "email": "Meta account — email not exposed by Meta API"
     },
     {
@@ -66,11 +66,11 @@
       "handle": "@memeaddaindia.post",
       "url": "https://www.instagram.com/memeaddaindia.post/",
       "followers": 1,
-      "posts": 19,
-      "posts_7d": 3,
-      "latest": "19 Nov 2026, 11:59 IST",
-      "latest_dt": "2026-11-19T11:59:55+05:30",
-      "latest_url": "https://www.instagram.com/reel/Df6cIvxj8Om/",
+      "posts": 20,
+      "posts_7d": 4,
+      "latest": "19 Nov 2026, 16:01 IST",
+      "latest_dt": "2026-11-19T16:01:16+05:30",
+      "latest_url": "https://www.instagram.com/reel/Df63wPRjnHn/",
       "latest_type": "video",
       "health": "ok",
       "health_label": "Active",
